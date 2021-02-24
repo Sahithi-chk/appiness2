@@ -1,0 +1,290 @@
+body, html {
+    height: 100%;
+    margin-left: 35px;
+    margin-right: 35px;
+
+    
+}
+
+h1 {
+font-style: italic;
+}
+/* The hero image */
+
+.bg-img {
+  /* The image used */
+  background-image: url("C:/Users/csahithi2/Documents/UI/project/Banner_mage 3-2021-02-23+14_49_37.589153/png/Banner_mage 3.png");
+
+  min-height: 550px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.rectangle-copy-4 {
+  background-color: #DD5A6A;
+  width: 111px;
+  height: 44px;
+}
+.rectangle3 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 255px;
+  height: 170px;
+}
+.submit {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14.84px;
+  line-height: 18px;
+  width: 54px;
+  text-align: left;
+}
+
+.bg-img1{
+  /* The image used */
+  background-image: url("C:/Users/csahithi2/Desktop/ui2/UI/project/Group 3.png");
+ margin-top: 60px;
+  min-height: 400px;
+  max-width: 70%;
+  margin-left: 200px;
+
+  /* Center and scale the image nicely */
+  
+}
+/* Add styles to the form container */
+.container {
+  position:absolute;
+  right: 30px;
+  margin: 15px;
+  right: 30px;
+  max-width: 350px;
+  padding: 16px;
+  padding-right: 30px;
+  height: 420px;
+  background-color: white;
+}
+
+
+.container1 {
+  min-height: 400px;
+  right: 30px;
+  margin: 15px;
+  right: 30px;
+  max-width: 350px;
+  padding: 16px;
+  padding-right: 30px;
+  height: 420px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.text-block {
+  position: absolute;
+  top:10%;
+  right:20%;
+  bottom: 20px;
+
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.doctors {
+
+  margin-left: 210px;
+  lemargin=30px;
+
+}
+.pediatric-bmt {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+}
+
+.rectangle {
+  background-color: #F9F9FF;
+  border-radius: 4px;
+  width: 539px;
+  height: 1064px;
+}
+
+.adult-bmt {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+}
+
+.dr-vijay-agarwal-copy {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+}
+
+
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 3px;
+  text-align: center;
+}
+
+
+
+.dr-vijay-agarwal-is-copy {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: 423px;
+  text-align:center;
+  padding-left: 20px;
+}
+
+.rectangle1 {
+  background-image: radial-gradient(-35.15% 100%, #17EAD9 0%, #6078EA 100%);
+  border-radius: 4px;
+  width: 129px;
+  height: 49px;
+  
+}
+.know-more {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-align: left;
+}
+.what-are-the-types-o {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+ul {
+  list-style-image: url("C:/Users/csahithi2/Documents/UI/hospital (2) copy 3.png");
+}
+
+.autologous-bone-marr {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 39px;
+  width: 1068px;
+  text-align: left;
+}
+
+.the-warning-signs-of {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.failure-to-thrive {
+
+    padding-left: 8px;
+    color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    line-height: 21px;
+    width: 198px;
+    text-align: left;
+  }
+}
+
+.rectangle3 {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EAFF;
+  border-radius: 4px;
+  box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+  width: 200px;
+  height: 170px;
+ 
+  
+}
+
+.what-are-the-conditi {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 797px;
+  text-align: left;
+}
+.small-images {
+
+  padding-left: 10px;
+  padding-top: 10px;
+  width: 35px;
+  height: 21px;
+  X:469px;
+  Y:2861px;
+}
+
+.bmt-is-the-treatment {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  width: 1052px;
+  text-align: left;
+}
+
+
+.bone-marrow-transpla {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 18px;
+  line-height: 26px;
+  width: 545px;
+  text-align: left;
+}
