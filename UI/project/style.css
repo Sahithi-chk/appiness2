@@ -28,6 +28,14 @@ font-style: italic;
   width: 111px;
   height: 44px;
 }
+.enquire-now {
+  color: #213559;
+  font-family: StagSans;
+  font-size: 20.08px;
+  line-height: 24px;
+  width: 127px;
+  text-align: left;
+}
 .rectangle3 {
   background-color: #FFFFFF;
   border: 1px solid #E5EAFF;
@@ -35,6 +43,22 @@ font-style: italic;
   box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
   width: 255px;
   height: 170px;
+}
+.formcode {
+  position: absolute;
+  position: absolute;
+  right: 0;
+background-color: #FFFFFF;
+box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+width: 339px;
+height: 492px;
+padding-left: 20px;
+padding-top: 10px;
+}
+.form-control {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
 }
 .submit {
   color: #FFFFFF;
@@ -45,6 +69,14 @@ font-style: italic;
   text-align: left;
 }
 
+.submit1 {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14.84px;
+  line-height: 18px;
+  width: 54px;
+  text-align: left;
+}
 .bg-img1{
   /* The image used */
   background-image: url("C:/Users/csahithi2/Desktop/ui2/UI/project/Group 3.png");
@@ -68,7 +100,10 @@ font-style: italic;
   height: 420px;
   background-color: white;
 }
-
+.aster-logo-white {
+  width: 239px;
+  height: 239px;
+}
 
 .container1 {
   min-height: 400px;
@@ -80,6 +115,12 @@ font-style: italic;
   padding-right: 30px;
   height: 420px;
   background-color: white;
+}
+.rectangle4 {
+  background-image: radial-gradient(-35.15% 100%, #2EC4B8 0%, #6078EA 100%);
+  border-radius: 4px;
+  width: 586px;
+  height: 95px;
 }
 
 /* Full-width input fields */
@@ -205,7 +246,29 @@ input[type=text]:focus, input[type=password]:focus {
   line-height: 44px;
   text-align: left;
 }
+#myDIV {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 30px;
+  width: 1052px;
+  text-align: left;
 
+
+}
+ol {
+    list-style-image: url("C:/Users/csahithi2/Desktop/ui2/UI/project/double-tick-indicator (1).png");
+  }
+  
+  .what-are-the-conditi {
+  color: #1D5AA6;
+  font-family: StagSans;
+  font-size: 20px;
+  letter-spacing: 1.6px;
+  line-height: 22px;
+  width: 797px;
+  text-align: left;
+}
 ul {
   list-style-image: url("C:/Users/csahithi2/Documents/UI/hospital (2) copy 3.png");
 }
@@ -233,14 +296,44 @@ ul {
     padding-left: 8px;
     color: #000000;
     font-family: StagSans;
+    font-size: 8px;
+    line-height: 21px;
+    width: 198px;
+    text-align: left;
+  }
+  .rectangle3 {
+    background-color: #FFFFFF;
+    border: 1px solid #E5EAFF;
+    border-radius: 4px;
+    box-shadow: 3px 5px 29px 0 rgba(187, 165, 228, 0.1);
+    width: 300px;
+    height: 170px;
+    padding: 20px;
+    grid-row: 10px;
+}
+
+.failure-to-thrive {
+    color: #000000;
+    font-family: StagSans;
     font-size: 14px;
     line-height: 21px;
     width: 198px;
     text-align: left;
   }
-}
+  .top-buffer {
+       margin-right:20px;
+       margin-bottom: 25px;
 
+ }
+
+ .knowmore {
+  background-image: radial-gradient(-35.15% 100%, #17EAD9 0%, #6078EA 100%);
+  border-radius: 4px;
+  width: 129px;
+  height: 49px;
+}
 .rectangle3 {
+
   background-color: #FFFFFF;
   border: 1px solid #E5EAFF;
   border-radius: 4px;
@@ -250,7 +343,22 @@ ul {
  
   
 }
+.book-an-appointment {
+  background-color: #004498;
+  border-radius: 3.81px;
+  width: 221px;
+  height: 54px;
+}
 
+.book {
+  padding-left: 9.9%;
+  padding-bottom: 10%;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  text-align: left;
+}
 .what-are-the-conditi {
   color: #1D5AA6;
   font-family: StagSans;
@@ -286,5 +394,95 @@ ul {
   font-size: 18px;
   line-height: 26px;
   width: 545px;
+  text-align: left;
+}
+
+
+.footer {
+  background-color: #272727;
+  width: 1440px;
+  height: 256px;
+}
+
+
+
+
+
+
+
+
+
+.test-card {
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  width: 517px;
+  height: 249px;
+}
+.bitmap {
+  width: 200px;
+  height: 92px;
+}
+.testimonals {
+  color: #22B78E;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 21px;
+  width: 609px;
+  text-align: left;
+}
+
+.it-is-a-long-establi2 {
+  
+      color: #000000;
+      font-family: StagSans;
+      font-size: 15px;
+      line-height: 21px;
+      width: 609px;
+      text-align: left;
+  
+}
+.softwere-engineer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+}
+.bitmap1 {
+  width: 255px;
+  height: 161px;
+}
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+  width: 410px;
+  text-align: left;
+}
+
+.footer {
+  background-color: #272727;
+  width: 2000px;
+  height: 256px;
+  padding-left: 0%;
+}
+
+.card-title {
+  color: #FFFFFF;
+  font-family: StagSans;
+  font-size: 14px;
+  letter-spacing: 1.12px;
+  line-height: 17px;
   text-align: left;
 }

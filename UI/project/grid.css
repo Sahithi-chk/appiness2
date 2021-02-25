@@ -1,0 +1,51 @@
+.formcode {
+    position: absolute;
+    position: absolute;
+    right: 0;
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+  width: 339px;
+  height: 492px;
+  padding-left: 20px;
+  padding-top: 10px;
+  }
+  .bg-img {
+    /* The image used */
+    background-image: url("C:/Users/csahithi2/Documents/UI/project/Banner_mage 3-2021-02-23+14_49_37.589153/png/Banner_mage 3.png");
+  
+    min-height: 550px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .adult-paediatric-b {
+    color: #FFFFFF;
+    font-family: Titillium;
+    font-size: 31px;
+    letter-spacing: 1.28px;
+    line-height: 40px;
+    width: 622px;
+    text-align: left;
+  }
+  .design {
+  border: 0.87px solid #D0D0D0;
+  width: 278px;
+  height: 42px;
+}
+  .form-control {
+    border: 0.87px solid #D0D0D0;
+    width: 278px;
+    height: 42px;
+    
+  }
+  .enquire-now {
+    color: #213559;
+    font-family: StagSans;
+    font-size: 20.08px;
+    line-height: 24px;
+    width: 127px;
+    text-align: left;
+  }
